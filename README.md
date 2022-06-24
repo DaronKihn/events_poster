@@ -1,6 +1,6 @@
 ![Loading screenshot](/screenshots/loading_screen.png)
 
-<img src = '/screenshots/loading_screen.png' height='600'>
+<img src = '/screenshots/loading_screen.png' height='600'> <img src = '/screenshots/loading_screen.png' height='600'>
 
 ![Search screenshot](/screenshots/search_screen.png)
 
